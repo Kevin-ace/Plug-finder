@@ -1,0 +1,17 @@
+.custom-div-icon {
+    background: transparent;
+    border: none;
+}
+
+.marker-pin {
+    transition: transform 0.2s ease;
+}
+
+.marker-pin:hover {
+    transform: scale(1.1);
+}
+
+.leaflet-marker-icon {
+    background: transparent;
+    border: none;
+} 

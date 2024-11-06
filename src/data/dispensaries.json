@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Green Leaf Dispensary",
+        "address": "123 Cannabis Street",
+        "lat": 34.0522,
+        "lng": -118.2437,
+        "hours": "9:00 AM - 10:00 PM",
+        "phone": "(555) 123-4567",
+        "type": ["in-store", "medical", "recreational"]
+    },
+    {
+        "id": 2,
+        "name": "Healing Center",
+        "address": "456 Medical Ave",
+        "lat": 34.0622,
+        "lng": -118.2537,
+        "hours": "8:00 AM - 9:00 PM",
+        "phone": "(555) 987-6543",
+        "type": ["delivery", "medical"]
+    }
+] 
